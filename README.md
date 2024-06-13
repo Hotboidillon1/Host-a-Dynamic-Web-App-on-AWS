@@ -64,10 +64,9 @@ Hosting a dynamic web app on AWS involves several key services to handle the web
    - Add DNS records to point to your EC2 instance or Elastic Load Balancer.
 
 #### Step 6: Secure and Monitor
-1. **Implement Security Best Practices:**
-   - Set up HTTPS using AWS Certificate Manager or by installing SSL/TLS certificates on your server.
+1. **Implement Security Best Practices:**- Set up HTTPS using AWS Certificate Manager or by installing SSL/TLS certificates on your server.
    - Regularly update and patch your server and application.
 2. **Monitor Your Application:**
    - Use Amazon CloudWatch to monitor instance performance and set up alarms.
-
+Hosting a dynamic website on AWS using EC2 and other services can provide scalability, reliability, and flexibility. If you have any specific questions or need assistance with any part of the setup or deployment process, feel free to ask! Whether it's about configuring EC2 instances, setting up databases with RDS, using Elastic Load Balancers, or anything else AWS-related, I'm here to help.
 By following these steps, you can successfully host a dynamic web application on AWS, leveraging its robust and scalable infrastructure.
